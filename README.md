@@ -3,7 +3,7 @@
 
 An advanced, production-ready Generative AI agent architecture designed to enforce strict domain knowledge constraints, eliminate LLM hallucinations, and optimize serverless infrastructure costs. This repository outlines the high-level software engineering decisions, stateful routing logic, and cloud-native serverless blueprints for building resilient conversational AI workflows using LangGraph and AWS Serverless layers.
 
-> **Notice**: The source code of this repository is private and proprietary to protect core intellectual property and business logic. This document serves as a high-level architectural blueprint and technical overview of the production system.
+- **Notice**: The source code of this repository is private and proprietary to protect core intellectual property and business logic. This document serves as a high-level architectural blueprint and technical overview of the production system.
 
 ---
 
@@ -82,4 +82,4 @@ class EvaluationSchema(BaseModel):
     reasoning_trace: str         # Algorithmic reasoning trace for deterministic logging
 
 Contact & Collaboration
-For inquiries regarding the technical architecture, benchmarking results, or system capabilities, please reach me out. 
+For inquiries regarding the technical architecture, benchmarking results, or system capabilities, please reach out to me. 
