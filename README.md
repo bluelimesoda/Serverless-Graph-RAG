@@ -46,7 +46,7 @@ The agent governs the conversation flow through a strict state machine, employin
      ▼         ▼          ▼
 [Generator] [Query Rewriter] [Fallback Generator]
      │         │              │
-   [END]       └──────────────┘ (Increments Loop Count & Re-executes)
+   [END]       └──────────────┘ (Increments Loop Count & Re-executes)```
 
 ## Core Architectural Decisions & "The Why"
 
