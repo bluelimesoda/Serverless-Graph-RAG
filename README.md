@@ -87,4 +87,4 @@ class EvaluationSchema(BaseModel):
 
 ## Contact & Collaboration
 
-For inquiries regarding the technical architecture, benchmarking results, or system capabilities, please reach out to me via katejkim88@gmail.com
+For inquiries regarding the technical architecture, benchmarking results, or system capabilities, please reach out to me via github.com/bluelimesoda
